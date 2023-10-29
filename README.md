@@ -10,10 +10,9 @@ Mais informações podem ser vistas no [**Projeto de Manipulação de Dados com 
 ## Pacotes e Módulos Utilizados
 - **PySpark:** Framework principal utilizado para processamento distribuído de grandes conjuntos de dados.
   - **SparkSession:** Ponto de entrada para funcionalidades do Spark.
-  - **DataFrame API:** Para manipulações eficientes de dados distribuídos.
-  - **Functions (F):** Conjunto de funções para operações e transformações em DataFrames.
-  - **Data Types (como FloatType):** Para definição e conversão de tipos de dados em colunas de DataFrames.
-  - **Window:** Para operações de funções de janela em DataFrames.
+  - **Functions (F):** Conjunto de funções para operações e transformações em dataframes.
+  - **Data Types (como FloatType):** Para definição e conversão de tipos de dados em colunas de dataframes.
+  - **Window:** Para operações de funções de janela em dataframes.
 
 ## Sobre os Dados
 - **Dataset:** [Gas Prices in Brazil](https://www.kaggle.com/matheusfreitag/gas-prices-in-brazil)
